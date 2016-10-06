@@ -1,0 +1,6 @@
+c:\users\mahamudul\documents\visual studio 2013\Projects\StudentApp\StudentApp\bin\StudentApp.dll.config
+c:\users\mahamudul\documents\visual studio 2013\Projects\StudentApp\StudentApp\bin\StudentApp.dll
+c:\users\mahamudul\documents\visual studio 2013\Projects\StudentApp\StudentApp\bin\StudentApp.pdb
+c:\users\mahamudul\documents\visual studio 2013\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+c:\users\mahamudul\documents\visual studio 2013\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.dll
+c:\users\mahamudul\documents\visual studio 2013\Projects\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
